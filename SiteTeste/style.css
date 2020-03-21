@@ -1,3 +1,69 @@
-.section{
-    margin-top: 100;
+.navbar{
+    background-color: #212121;
+    color: #000000;
 }
+
+
+.navbar a{
+    color: #2196f3;
+}
+
+.section{
+    background-color: #2196f3;
+    color: #000000;
+    padding: 1em 5em 1em 2em;
+    text-align: center;
+}
+    .section h1{
+        font-style: oblique;
+    }
+
+.section2 {
+    background-color: #212121;
+    color: #2196f3;
+    padding: 3em 5em 3em 5em;
+    text-align: center;
+
+}
+    .section2 a{
+        color: aquamarine;
+    }
+
+.botoeira1{
+    background-color: #6ec6ff;
+    align-items: center;
+    text-align: center;
+}
+    .botoeira1 a{
+        color: #212121;
+    }
+
+
+.botoeira2{
+    background-color: #0069c0;
+    align-items: center;
+    text-align: center;
+}
+    .botoeira2 a{
+        color: #ffffff;
+    }
+
+.footer{
+    background-color: #454545;
+}
+    .footer a{
+        
+        font-size: 50px;
+    }
+    
+    .footer p{
+        text-align: center;
+       margin-top: 30px;
+        color: #2196f3;
+    }
+
+    .footer ul{
+        margin-top: 30px;
+        color: #2196f3;
+        text-align: justify;
+    }
