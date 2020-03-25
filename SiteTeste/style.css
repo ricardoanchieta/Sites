@@ -70,13 +70,18 @@
     }
 
 .cronograma {
-    background-color: #6ec6ff;
+    background-color:#2196f3 ;
     margin-bottom: -16px;
     padding: 15px;
     
 }
     .cronograma ul{
-        
-        
+        background-color:#6ec6ff;
+        color: black;
+        margin-bottom: 10px;
     }
 
+.gambiarra{
+    margin-bottom: 10px;
+}
+    
