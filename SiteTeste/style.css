@@ -50,6 +50,7 @@
 
 .footer{
     background-color: #454545;
+    
 }
     .footer a{
         
@@ -67,3 +68,15 @@
         color: #2196f3;
         text-align: justify;
     }
+
+.cronograma {
+    background-color: #6ec6ff;
+    margin-bottom: -16px;
+    padding: 15px;
+    
+}
+    .cronograma ul{
+        
+        
+    }
+
